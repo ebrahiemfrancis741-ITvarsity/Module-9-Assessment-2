@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(10, 10, 10);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#local {
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(39, 39, 204);
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#cities{
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffe4c4;
+    font-size: 3vw;
+    font-weight: bolder;
+    letter-spacing: 1;
+}
+
+#cities tr{
+    padding-bottom: 10px;
+}
+
+#cities td{
+    padding: 10px;
+    border-bottom: 2px solid grey;
+}
